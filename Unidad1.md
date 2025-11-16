@@ -22,7 +22,7 @@ Fue un trabajo grupal de 5 integrantes donde se realizaron ejercicios sobre las 
 Fue un trabajo grupal donde se realizó una **presentación para clase invertida** sobre los *conceptos fundamentales de la lógica proposicional*.
 
 **Link del deber realizado:**  
-[Presentación – Lógica Proposicional, Conectores y Tablas de Verdad](https://docs.google.com/presentation/d/1QMIarb6lXXthlWJjfvaJ6yiRxN8iLhUD/edit?usp=sharing&ouid=108382298495380306386&rtpof=true&sd=true)
+[Presentación – Lógica Proposicional, Conectores y Tablas de Verdad](https://docs.google.com/presentation/d/1EZPxI-3I91FOKbZEU_sb12avoCoTMrGG/edit?usp=sharing&ouid=108382298495380306386&rtpof=true&sd=true)
 
 ---
 
@@ -32,7 +32,7 @@ Fue un trabajo grupal donde se realizó una **presentación para clase invertida
 Fue una consulta individual sobre *leyes proposicionales* y *reglas de inferencia*, elaborada en diapositivas.
 
 **Link del deber realizado:**  
-[Consulta – Leyes Proposicionales y Reglas de Inferencia](https://docs.google.com/presentation/d/1EZPxI-3I91FOKbZEU_sb12avoCoTMrGG/edit?usp=sharing&ouid=108382298495380306386&rtpof=true&sd=true)
+[Consulta – Leyes Proposicionales y Reglas de Inferencia](https://docs.google.com/presentation/d/1QMIarb6lXXthlWJjfvaJ6yiRxN8iLhUD/edit?usp=sharing&ouid=108382298495380306386&rtpof=true&sd=true)
 
 ---
 
