@@ -42,7 +42,7 @@ Fue un trabajo individual de consulta sobre *leyes proposicionales* y *reglas de
 Se desarrollaron dos ejercicios en los que se aplicaron de manera sistemática las **leyes proposicionales** y las **reglas de inferencia**.
 
 **Link del deber realizado:**  
-📥[Ejercicios – Aplicación de Leyes Proposicionales](https://drive.google.com/file/d/1O_RK8xEjfEmah3jYVDAU0COWsKTJ8Bah/view?usp=sharing)
+📥[Ejercicios – Aplicación de Leyes Proposicionales](https://drive.google.com/file/d/1KrPiOgTOXdkDwDC87EuzLx41gCbkB1ei/view?usp=sharing)
 
 ---
 
