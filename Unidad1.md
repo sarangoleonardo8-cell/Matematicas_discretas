@@ -9,10 +9,10 @@ A continuacion se presentara los trabajos realizados en la primera unidad de APE
 ## 🟦 APE – Resolución de Ejercicios
 
 **Descripción:**  
-Fue un trabajo grupal donde se realizaron ejercicios sobre las *proposiciones* y *tablas de verdad*.
+Fue un trabajo grupal de 5 integrantes donde se realizaron ejercicios sobre las *proposiciones* y *tablas de verdad* en el cual nos dividimos el trabajo por cada uno de los integrantes del grupo.
 
 **Link del deber realizado:**  
-[Resolución de Ejercicios – Proposiciones y Tablas de Verdad](https://drive.google.com/file/d/1Fnm3H0gCpWVHbkODAv9ORxaWlAYWGKX0/view?usp=sharing)
+[Resolución de Ejercicios – Proposiciones y Tablas de Verdad](https://drive.google.com/file/d/1uZDXfBiUMRLSEjO8wAs0dwhzEnlm2sbL/view?usp=sharing)
 
 ---
 
