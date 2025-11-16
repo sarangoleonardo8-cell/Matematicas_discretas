@@ -52,8 +52,8 @@ Se realizaron dos ejercicios aplicando *leyes proposicionales* y *reglas de infe
 En este apartado se presenta el **enlace a la carpeta de Google Drive** donde se encuentran organizadas todas las actividades realizadas en la asignatura, incluyendo evidencias, documentos, presentaciones y materiales correspondientes al desarrollo del portafolio.
 
 **Link del Drive con los deberes realizados:**  
-[Carpeta de evidencias – Portafolio de Matemáticas Discretas](https://drive.google.com/drive/folders/1XL0APDsPgCZ8O99-nnohYqe_Js-jG94n?usp=drive_link)
+[Carpeta de evidencias – Portafolio de Matemáticas Discretas](https://drive.google.com/drive/folders/17oEY_ozcg4svfyROZFUZ-r6RIwJxT_s4?usp=sharing)
 
 ---
 
-[⬅️ Volver al inicio](README.md)
+[⬅️ Volver al inicio](Indice.md)
